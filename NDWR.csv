@@ -1,0 +1,281 @@
+CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,State,WaDEURLAddress
+,DETAIL,ALLOCATION,,NDWR,2017,001 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,002 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,003 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,004 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,006 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,007 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,008 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,009 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,010 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,011 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,012 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,013 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,014 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,015 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,016 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,017 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,018 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,019 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,021 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,022 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,023 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,024 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,025 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,026 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,027 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,028 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,029 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,030A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,030B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,031 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,032 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,033A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,033B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,034 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,035 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,036 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,037 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,038 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,039 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,040 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,041 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,042 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,043 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,044 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,045 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,046 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,047 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,048 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,049 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,050 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,051 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,052 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,053 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,054 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,055 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,056 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,057 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,058 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,059 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,060 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,061 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,062 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,063 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,064 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,065 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,066 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,067 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,068 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,069 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,070 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,071 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,072 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,073 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,073A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,074 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,075 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,076 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,077 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,078 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,079 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,080 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,081 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,082 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,083 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,084 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,085 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,086 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,087 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,088 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,089 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,090 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,091 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,092A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,092B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,093 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,094 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,095 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,096 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,097 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,098 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,099 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,100 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,100A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,101 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,101A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,102 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,103 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,104 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,105 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,106 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,107 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,108 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,109 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,110A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,110B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,110C,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,111A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,111B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,113 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,114 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,116 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,117 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,118 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,119 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,120 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,121A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,121B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,122 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,123 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,124 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,125 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,126 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,127 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,128 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,129 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,130 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,131 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,132 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,133 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,134 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,135 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,136 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,137A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,137B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,138 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,139 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,140A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,140B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,141 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,142 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,143 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,144 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,145 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,146 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,147 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,148 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,149 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,150 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,151 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,152 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,153 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,154 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,155A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,155B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,155C,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,156 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,157 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,158A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,159 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,160 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,161 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,162 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,163 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,164A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,164B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,165 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,166 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,167 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,168 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,169A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,169B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,170 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,171 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,172 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,173A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,173B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,174 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,175 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,176 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,177 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,178A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,178B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,179 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,180 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,181 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,182 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,183 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,184 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,185 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,186A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,186B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,187 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,188 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,189A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,189B,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,189C,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,189D,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,190 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,191 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,192 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,193 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,194 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,195 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,196 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,197 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,198 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,199 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,200 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,201 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,202 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,203 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,204 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,205 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,206 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,207 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,208 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,209 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,210 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,211 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,212 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,213 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,214 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,215 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,216 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,217 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,218 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,219 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,220 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,221 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,222 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,223 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,224 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,227A,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,228 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,229 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,230 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,231 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,232 ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,,NDWR,2017,UKN ,53,http://wade.water.nv.gov
+,DETAIL,ALLOCATION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,DETAIL,DIVERSION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,DETAIL,RETURN,16020204,SAMPLE1,2012,16020204                           ,46,http://wade.water.nv.gov
+,DETAIL,USE,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,ALLOCATION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,AVAILABILITY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,REGULATORY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,REGULATORY,16020205,SAMPLE1,2012,16020205,46,http://wade.water.nv.gov
+,SUMMARY,SUPPLY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,USE,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
+,SUMMARY,AVAILABILITY,16020204,SAMPLE1,2013-CU1,16020204,46,http://wade.water.nv.gov
+,SUMMARY,REGULATORY,16020206,SAMPLE1,2013-CU1,16020206,46,http://wade.water.nv.gov
+49035,DETAIL,ALLOCATION,16020204,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,DETAIL,DIVERSION,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,DETAIL,RETURN,,SAMPLE2,2012,100                                ,46,http://wade.water.nv.gov
+,DETAIL,USE,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,SUMMARY,ALLOCATION,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,SUMMARY,AVAILABILITY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,SUMMARY,REGULATORY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,SUMMARY,SUPPLY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+,SUMMARY,USE,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
+49035,DETAIL,ALLOCATION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,DETAIL,DIVERSION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,46,http://wade.water.nv.gov
+49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,46,http://wade.water.nv.gov
+49035,DETAIL,USE,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,SUMMARY,ALLOCATION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,SUMMARY,AVAILABILITY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,SUMMARY,REGULATORY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,SUMMARY,SUPPLY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
+49035,SUMMARY,USE,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
