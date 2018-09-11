@@ -1,196 +1,196 @@
-CountFIPS,DataCategory,DataType,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
-,SUMMARY,USE,NMOSE,1995,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
-35033,SUMMARY,USE,NMOSE,1990,35033,Mora,35,http://www.westernstateswater.org/NewMexico
-35033,SUMMARY,USE,NMOSE,2000,35033,Mora,35,http://www.westernstateswater.org/NewMexico
-35028,SUMMARY,USE,NMOSE,2010,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
-35003,SUMMARY,USE,NMOSE,2000,35003,Catron,35,http://www.westernstateswater.org/NewMexico
-35029,SUMMARY,USE,NMOSE,2000,35029,Luna,35,http://www.westernstateswater.org/NewMexico
-35003,SUMMARY,USE,NMOSE,1990,35003,Catron,35,http://www.westernstateswater.org/NewMexico
-35029,SUMMARY,USE,NMOSE,1990,35029,Luna,35,http://www.westernstateswater.org/NewMexico
-35015,SUMMARY,USE,NMOSE,1995,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
-35019,SUMMARY,USE,NMOSE,1995,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
-35027,SUMMARY,USE,NMOSE,2000,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
-35027,SUMMARY,USE,NMOSE,1990,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
-35013,SUMMARY,USE,NMOSE,2005,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35007,SUMMARY,USE,NMOSE,2005,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1995,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
-35041,SUMMARY,USE,NMOSE,1995,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
-35031,SUMMARY,USE,NMOSE,1995,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
-35043,SUMMARY,USE,NMOSE,2005,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
-35017,SUMMARY,USE,NMOSE,2010,35017,Grant,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
-35005,SUMMARY,USE,NMOSE,2010,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
-35033,SUMMARY,USE,NMOSE,1995,35033,Mora,35,http://www.westernstateswater.org/NewMexico
-35021,SUMMARY,USE,NMOSE,2010,35021,Harding,35,http://www.westernstateswater.org/NewMexico
-35015,SUMMARY,USE,NMOSE,2000,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
-35015,SUMMARY,USE,NMOSE,1990,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
-35019,SUMMARY,USE,NMOSE,1990,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
-35019,SUMMARY,USE,NMOSE,2000,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
-35003,SUMMARY,USE,NMOSE,1995,35003,Catron,35,http://www.westernstateswater.org/NewMexico
-35029,SUMMARY,USE,NMOSE,1995,35029,Luna,35,http://www.westernstateswater.org/NewMexico
-35011,SUMMARY,USE,NMOSE,2005,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
-35027,SUMMARY,USE,NMOSE,1995,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
-35059,SUMMARY,USE,NMOSE,2010,35059,Union,35,http://www.westernstateswater.org/NewMexico
-35039,SUMMARY,USE,NMOSE,2005,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
-35035,SUMMARY,USE,NMOSE,2005,35035,Otero,35,http://www.westernstateswater.org/NewMexico
-35053,SUMMARY,USE,NMOSE,2005,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
-35037,SUMMARY,USE,NMOSE,2005,35037,Quay,35,http://www.westernstateswater.org/NewMexico
-35061,SUMMARY,USE,NMOSE,2010,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
-35055,SUMMARY,USE,NMOSE,2010,35055,Taos,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
-35006,SUMMARY,USE,NMOSE,2005,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
-35031,SUMMARY,USE,NMOSE,2000,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
-35031,SUMMARY,USE,NMOSE,1990,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35041,SUMMARY,USE,NMOSE,1990,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
-35041,SUMMARY,USE,NMOSE,2000,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
-35045,SUMMARY,USE,NMOSE,2005,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
-35007,SUMMARY,USE,NMOSE,2010,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
-35049,SUMMARY,USE,NMOSE,1995,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
-35057,SUMMARY,USE,NMOSE,1990,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
-35057,SUMMARY,USE,NMOSE,2000,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
-35023,SUMMARY,USE,NMOSE,1990,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
-35023,SUMMARY,USE,NMOSE,2000,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
-35013,SUMMARY,USE,NMOSE,2010,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
-35009,SUMMARY,USE,NMOSE,1995,35009,Curry,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1995,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
-35001,SUMMARY,USE,NMOSE,1995,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35047,SUMMARY,USE,NMOSE,1995,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
-35025,SUMMARY,USE,NMOSE,1990,35025,Lea,35,http://www.westernstateswater.org/NewMexico
-35025,SUMMARY,USE,NMOSE,2000,35025,Lea,35,http://www.westernstateswater.org/NewMexico
-35051,SUMMARY,USE,NMOSE,2000,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
-35051,SUMMARY,USE,NMOSE,1990,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
-35028,SUMMARY,USE,NMOSE,2005,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
-35055,SUMMARY,USE,NMOSE,2005,35055,Taos,35,http://www.westernstateswater.org/NewMexico
-35049,SUMMARY,USE,NMOSE,1990,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
-35006,SUMMARY,USE,NMOSE,2010,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
-35049,SUMMARY,USE,NMOSE,2000,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
-35053,SUMMARY,USE,NMOSE,2010,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
-35061,SUMMARY,USE,NMOSE,2005,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
-35037,SUMMARY,USE,NMOSE,2010,35037,Quay,35,http://www.westernstateswater.org/NewMexico
-35057,SUMMARY,USE,NMOSE,1995,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35045,SUMMARY,USE,NMOSE,2010,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
-35009,SUMMARY,USE,NMOSE,2000,35009,Curry,35,http://www.westernstateswater.org/NewMexico
-35009,SUMMARY,USE,NMOSE,1990,35009,Curry,35,http://www.westernstateswater.org/NewMexico
-35039,SUMMARY,USE,NMOSE,2010,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
-35023,SUMMARY,USE,NMOSE,1995,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
-35059,SUMMARY,USE,NMOSE,2005,35059,Union,35,http://www.westernstateswater.org/NewMexico
-35035,SUMMARY,USE,NMOSE,2010,35035,Otero,35,http://www.westernstateswater.org/NewMexico
-35001,SUMMARY,USE,NMOSE,1990,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
-35001,SUMMARY,USE,NMOSE,2000,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
-35025,SUMMARY,USE,NMOSE,1995,35025,Lea,35,http://www.westernstateswater.org/NewMexico
-35047,SUMMARY,USE,NMOSE,1990,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
-35047,SUMMARY,USE,NMOSE,2000,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
-35011,SUMMARY,USE,NMOSE,2010,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
-35043,SUMMARY,USE,NMOSE,2010,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
-35051,SUMMARY,USE,NMOSE,1995,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
-35017,SUMMARY,USE,NMOSE,2005,35017,Grant,35,http://www.westernstateswater.org/NewMexico
-35021,SUMMARY,USE,NMOSE,2005,35021,Harding,35,http://www.westernstateswater.org/NewMexico
-35005,SUMMARY,USE,NMOSE,2005,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
-35033,SUMMARY,USE,NMOSE,2005,35033,Mora,35,http://www.westernstateswater.org/NewMexico
-35051,SUMMARY,USE,NMOSE,2010,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
-35043,SUMMARY,USE,NMOSE,1995,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
-35011,SUMMARY,USE,NMOSE,1995,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
-35027,SUMMARY,USE,NMOSE,2005,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
-35003,SUMMARY,USE,NMOSE,2005,35003,Catron,35,http://www.westernstateswater.org/NewMexico
-35029,SUMMARY,USE,NMOSE,2005,35029,Luna,35,http://www.westernstateswater.org/NewMexico
-35025,SUMMARY,USE,NMOSE,2010,35025,Lea,35,http://www.westernstateswater.org/NewMexico
-35035,SUMMARY,USE,NMOSE,1995,35035,Otero,35,http://www.westernstateswater.org/NewMexico
-35013,SUMMARY,USE,NMOSE,2000,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
-35013,SUMMARY,USE,NMOSE,1990,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
-35023,SUMMARY,USE,NMOSE,2010,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
-35039,SUMMARY,USE,NMOSE,1995,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
-35045,SUMMARY,USE,NMOSE,1995,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
-35057,SUMMARY,USE,NMOSE,2010,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
-35037,SUMMARY,USE,NMOSE,1995,35037,Quay,35,http://www.westernstateswater.org/NewMexico
-35053,SUMMARY,USE,NMOSE,1995,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
-35006,SUMMARY,USE,NMOSE,1995,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
-35007,SUMMARY,USE,NMOSE,2000,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
-35007,SUMMARY,USE,NMOSE,1990,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
-35043,SUMMARY,USE,NMOSE,1990,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
-35043,SUMMARY,USE,NMOSE,2000,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
-35011,SUMMARY,USE,NMOSE,1990,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
-35011,SUMMARY,USE,NMOSE,2000,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
-35019,SUMMARY,USE,NMOSE,2005,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
-35015,SUMMARY,USE,NMOSE,2005,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
-35047,SUMMARY,USE,NMOSE,2010,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
-35035,SUMMARY,USE,NMOSE,2000,35035,Otero,35,http://www.westernstateswater.org/NewMexico
-35035,SUMMARY,USE,NMOSE,1990,35035,Otero,35,http://www.westernstateswater.org/NewMexico
-35001,SUMMARY,USE,NMOSE,2010,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
-35039,SUMMARY,USE,NMOSE,2000,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
-35039,SUMMARY,USE,NMOSE,1990,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
-35009,SUMMARY,USE,NMOSE,2010,35009,Curry,35,http://www.westernstateswater.org/NewMexico
-35013,SUMMARY,USE,NMOSE,1995,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
-35045,SUMMARY,USE,NMOSE,1990,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
-35045,SUMMARY,USE,NMOSE,2000,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
-35041,SUMMARY,USE,NMOSE,2005,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
-35031,SUMMARY,USE,NMOSE,2005,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
-35006,SUMMARY,USE,NMOSE,1990,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
-35006,SUMMARY,USE,NMOSE,2000,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
-35049,SUMMARY,USE,NMOSE,2010,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
-35007,SUMMARY,USE,NMOSE,1995,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
-35053,SUMMARY,USE,NMOSE,2000,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
-35037,SUMMARY,USE,NMOSE,1990,35037,Quay,35,http://www.westernstateswater.org/NewMexico
-35037,SUMMARY,USE,NMOSE,2000,35037,Quay,35,http://www.westernstateswater.org/NewMexico
-35053,SUMMARY,USE,NMOSE,1990,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
-35057,SUMMARY,USE,NMOSE,2005,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1995,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1995,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
-35055,SUMMARY,USE,NMOSE,1995,35055,Taos,35,http://www.westernstateswater.org/NewMexico
-35061,SUMMARY,USE,NMOSE,1995,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35059,SUMMARY,USE,NMOSE,1995,35059,Union,35,http://www.westernstateswater.org/NewMexico
-35023,SUMMARY,USE,NMOSE,2005,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
-35027,SUMMARY,USE,NMOSE,2010,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
-35003,SUMMARY,USE,NMOSE,2010,35003,Catron,35,http://www.westernstateswater.org/NewMexico
-35029,SUMMARY,USE,NMOSE,2010,35029,Luna,35,http://www.westernstateswater.org/NewMexico
-35025,SUMMARY,USE,NMOSE,2005,35025,Lea,35,http://www.westernstateswater.org/NewMexico
-35021,SUMMARY,USE,NMOSE,1995,35021,Harding,35,http://www.westernstateswater.org/NewMexico
-35028,SUMMARY,USE,NMOSE,1990,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
-35028,SUMMARY,USE,NMOSE,2000,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
-35033,SUMMARY,USE,NMOSE,2010,35033,Mora,35,http://www.westernstateswater.org/NewMexico
-35005,SUMMARY,USE,NMOSE,1995,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
-35017,SUMMARY,USE,NMOSE,1995,35017,Grant,35,http://www.westernstateswater.org/NewMexico
-35051,SUMMARY,USE,NMOSE,2005,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
-35031,SUMMARY,USE,NMOSE,2010,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2000,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1990,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35041,SUMMARY,USE,NMOSE,2010,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
-35061,SUMMARY,USE,NMOSE,1990,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
-35061,SUMMARY,USE,NMOSE,2000,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
-35049,SUMMARY,USE,NMOSE,2005,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
-35055,SUMMARY,USE,NMOSE,2000,35055,Taos,35,http://www.westernstateswater.org/NewMexico
-35055,SUMMARY,USE,NMOSE,1990,35055,Taos,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
-35001,SUMMARY,USE,NMOSE,2005,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,1995,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
-35059,SUMMARY,USE,NMOSE,2000,35059,Union,35,http://www.westernstateswater.org/NewMexico
-35059,SUMMARY,USE,NMOSE,1990,35059,Union,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2005,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
-35009,SUMMARY,USE,NMOSE,2005,35009,Curry,35,http://www.westernstateswater.org/NewMexico
-35019,SUMMARY,USE,NMOSE,2010,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
-35015,SUMMARY,USE,NMOSE,2010,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
-35047,SUMMARY,USE,NMOSE,2005,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
-35028,SUMMARY,USE,NMOSE,1995,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
-35005,SUMMARY,USE,NMOSE,2000,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
-35005,SUMMARY,USE,NMOSE,1990,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
-35021,SUMMARY,USE,NMOSE,2000,35021,Harding,35,http://www.westernstateswater.org/NewMexico
-35021,SUMMARY,USE,NMOSE,1990,35021,Harding,35,http://www.westernstateswater.org/NewMexico
-35017,SUMMARY,USE,NMOSE,2000,35017,Grant,35,http://www.westernstateswater.org/NewMexico
-35017,SUMMARY,USE,NMOSE,1990,35017,Grant,35,http://www.westernstateswater.org/NewMexico
-,SUMMARY,USE,NMOSE,2010,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
+CountFIPS,DataCategory,DataType,Organization,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
+,SUMMARY,USE,,NMOSE,1995,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
+35033,SUMMARY,USE,,NMOSE,1990,35033,Mora,35,http://www.westernstateswater.org/NewMexico
+35033,SUMMARY,USE,,NMOSE,2000,35033,Mora,35,http://www.westernstateswater.org/NewMexico
+35028,SUMMARY,USE,,NMOSE,2010,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
+35003,SUMMARY,USE,,NMOSE,2000,35003,Catron,35,http://www.westernstateswater.org/NewMexico
+35029,SUMMARY,USE,,NMOSE,2000,35029,Luna,35,http://www.westernstateswater.org/NewMexico
+35003,SUMMARY,USE,,NMOSE,1990,35003,Catron,35,http://www.westernstateswater.org/NewMexico
+35029,SUMMARY,USE,,NMOSE,1990,35029,Luna,35,http://www.westernstateswater.org/NewMexico
+35015,SUMMARY,USE,,NMOSE,1995,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
+35019,SUMMARY,USE,,NMOSE,1995,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
+35027,SUMMARY,USE,,NMOSE,2000,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
+35027,SUMMARY,USE,,NMOSE,1990,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
+35013,SUMMARY,USE,,NMOSE,2005,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35007,SUMMARY,USE,,NMOSE,2005,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1995,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
+35041,SUMMARY,USE,,NMOSE,1995,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
+35031,SUMMARY,USE,,NMOSE,1995,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
+35043,SUMMARY,USE,,NMOSE,2005,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
+35017,SUMMARY,USE,,NMOSE,2010,35017,Grant,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
+35005,SUMMARY,USE,,NMOSE,2010,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
+35033,SUMMARY,USE,,NMOSE,1995,35033,Mora,35,http://www.westernstateswater.org/NewMexico
+35021,SUMMARY,USE,,NMOSE,2010,35021,Harding,35,http://www.westernstateswater.org/NewMexico
+35015,SUMMARY,USE,,NMOSE,2000,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
+35015,SUMMARY,USE,,NMOSE,1990,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
+35019,SUMMARY,USE,,NMOSE,1990,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
+35019,SUMMARY,USE,,NMOSE,2000,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
+35003,SUMMARY,USE,,NMOSE,1995,35003,Catron,35,http://www.westernstateswater.org/NewMexico
+35029,SUMMARY,USE,,NMOSE,1995,35029,Luna,35,http://www.westernstateswater.org/NewMexico
+35011,SUMMARY,USE,,NMOSE,2005,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
+35027,SUMMARY,USE,,NMOSE,1995,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
+35059,SUMMARY,USE,,NMOSE,2010,35059,Union,35,http://www.westernstateswater.org/NewMexico
+35039,SUMMARY,USE,,NMOSE,2005,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
+35035,SUMMARY,USE,,NMOSE,2005,35035,Otero,35,http://www.westernstateswater.org/NewMexico
+35053,SUMMARY,USE,,NMOSE,2005,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
+35037,SUMMARY,USE,,NMOSE,2005,35037,Quay,35,http://www.westernstateswater.org/NewMexico
+35061,SUMMARY,USE,,NMOSE,2010,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
+35055,SUMMARY,USE,,NMOSE,2010,35055,Taos,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
+35006,SUMMARY,USE,,NMOSE,2005,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
+35031,SUMMARY,USE,,NMOSE,2000,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
+35031,SUMMARY,USE,,NMOSE,1990,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35041,SUMMARY,USE,,NMOSE,1990,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
+35041,SUMMARY,USE,,NMOSE,2000,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
+35045,SUMMARY,USE,,NMOSE,2005,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
+35007,SUMMARY,USE,,NMOSE,2010,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
+35049,SUMMARY,USE,,NMOSE,1995,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
+35057,SUMMARY,USE,,NMOSE,1990,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
+35057,SUMMARY,USE,,NMOSE,2000,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
+35023,SUMMARY,USE,,NMOSE,1990,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
+35023,SUMMARY,USE,,NMOSE,2000,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
+35013,SUMMARY,USE,,NMOSE,2010,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
+35009,SUMMARY,USE,,NMOSE,1995,35009,Curry,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1995,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
+35001,SUMMARY,USE,,NMOSE,1995,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35047,SUMMARY,USE,,NMOSE,1995,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
+35025,SUMMARY,USE,,NMOSE,1990,35025,Lea,35,http://www.westernstateswater.org/NewMexico
+35025,SUMMARY,USE,,NMOSE,2000,35025,Lea,35,http://www.westernstateswater.org/NewMexico
+35051,SUMMARY,USE,,NMOSE,2000,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
+35051,SUMMARY,USE,,NMOSE,1990,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
+35028,SUMMARY,USE,,NMOSE,2005,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
+35055,SUMMARY,USE,,NMOSE,2005,35055,Taos,35,http://www.westernstateswater.org/NewMexico
+35049,SUMMARY,USE,,NMOSE,1990,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
+35006,SUMMARY,USE,,NMOSE,2010,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
+35049,SUMMARY,USE,,NMOSE,2000,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
+35053,SUMMARY,USE,,NMOSE,2010,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
+35061,SUMMARY,USE,,NMOSE,2005,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
+35037,SUMMARY,USE,,NMOSE,2010,35037,Quay,35,http://www.westernstateswater.org/NewMexico
+35057,SUMMARY,USE,,NMOSE,1995,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35045,SUMMARY,USE,,NMOSE,2010,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
+35009,SUMMARY,USE,,NMOSE,2000,35009,Curry,35,http://www.westernstateswater.org/NewMexico
+35009,SUMMARY,USE,,NMOSE,1990,35009,Curry,35,http://www.westernstateswater.org/NewMexico
+35039,SUMMARY,USE,,NMOSE,2010,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
+35023,SUMMARY,USE,,NMOSE,1995,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
+35059,SUMMARY,USE,,NMOSE,2005,35059,Union,35,http://www.westernstateswater.org/NewMexico
+35035,SUMMARY,USE,,NMOSE,2010,35035,Otero,35,http://www.westernstateswater.org/NewMexico
+35001,SUMMARY,USE,,NMOSE,1990,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
+35001,SUMMARY,USE,,NMOSE,2000,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
+35025,SUMMARY,USE,,NMOSE,1995,35025,Lea,35,http://www.westernstateswater.org/NewMexico
+35047,SUMMARY,USE,,NMOSE,1990,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
+35047,SUMMARY,USE,,NMOSE,2000,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
+35011,SUMMARY,USE,,NMOSE,2010,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
+35043,SUMMARY,USE,,NMOSE,2010,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
+35051,SUMMARY,USE,,NMOSE,1995,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
+35017,SUMMARY,USE,,NMOSE,2005,35017,Grant,35,http://www.westernstateswater.org/NewMexico
+35021,SUMMARY,USE,,NMOSE,2005,35021,Harding,35,http://www.westernstateswater.org/NewMexico
+35005,SUMMARY,USE,,NMOSE,2005,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
+35033,SUMMARY,USE,,NMOSE,2005,35033,Mora,35,http://www.westernstateswater.org/NewMexico
+35051,SUMMARY,USE,,NMOSE,2010,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
+35043,SUMMARY,USE,,NMOSE,1995,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
+35011,SUMMARY,USE,,NMOSE,1995,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
+35027,SUMMARY,USE,,NMOSE,2005,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
+35003,SUMMARY,USE,,NMOSE,2005,35003,Catron,35,http://www.westernstateswater.org/NewMexico
+35029,SUMMARY,USE,,NMOSE,2005,35029,Luna,35,http://www.westernstateswater.org/NewMexico
+35025,SUMMARY,USE,,NMOSE,2010,35025,Lea,35,http://www.westernstateswater.org/NewMexico
+35035,SUMMARY,USE,,NMOSE,1995,35035,Otero,35,http://www.westernstateswater.org/NewMexico
+35013,SUMMARY,USE,,NMOSE,2000,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
+35013,SUMMARY,USE,,NMOSE,1990,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
+35023,SUMMARY,USE,,NMOSE,2010,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
+35039,SUMMARY,USE,,NMOSE,1995,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
+35045,SUMMARY,USE,,NMOSE,1995,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
+35057,SUMMARY,USE,,NMOSE,2010,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
+35037,SUMMARY,USE,,NMOSE,1995,35037,Quay,35,http://www.westernstateswater.org/NewMexico
+35053,SUMMARY,USE,,NMOSE,1995,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
+35006,SUMMARY,USE,,NMOSE,1995,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
+35007,SUMMARY,USE,,NMOSE,2000,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
+35007,SUMMARY,USE,,NMOSE,1990,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
+35043,SUMMARY,USE,,NMOSE,1990,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
+35043,SUMMARY,USE,,NMOSE,2000,35043,Sandoval,35,http://www.westernstateswater.org/NewMexico
+35011,SUMMARY,USE,,NMOSE,1990,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
+35011,SUMMARY,USE,,NMOSE,2000,35011,De Baca,35,http://www.westernstateswater.org/NewMexico
+35019,SUMMARY,USE,,NMOSE,2005,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
+35015,SUMMARY,USE,,NMOSE,2005,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
+35047,SUMMARY,USE,,NMOSE,2010,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
+35035,SUMMARY,USE,,NMOSE,2000,35035,Otero,35,http://www.westernstateswater.org/NewMexico
+35035,SUMMARY,USE,,NMOSE,1990,35035,Otero,35,http://www.westernstateswater.org/NewMexico
+35001,SUMMARY,USE,,NMOSE,2010,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
+35039,SUMMARY,USE,,NMOSE,2000,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
+35039,SUMMARY,USE,,NMOSE,1990,35039,Rio Arriba,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
+35009,SUMMARY,USE,,NMOSE,2010,35009,Curry,35,http://www.westernstateswater.org/NewMexico
+35013,SUMMARY,USE,,NMOSE,1995,35013,Dona Ana,35,http://www.westernstateswater.org/NewMexico
+35045,SUMMARY,USE,,NMOSE,1990,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
+35045,SUMMARY,USE,,NMOSE,2000,35045,San Juan,35,http://www.westernstateswater.org/NewMexico
+35041,SUMMARY,USE,,NMOSE,2005,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
+35031,SUMMARY,USE,,NMOSE,2005,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
+35006,SUMMARY,USE,,NMOSE,1990,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
+35006,SUMMARY,USE,,NMOSE,2000,35006,Cibola,35,http://www.westernstateswater.org/NewMexico
+35049,SUMMARY,USE,,NMOSE,2010,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
+35007,SUMMARY,USE,,NMOSE,1995,35007,Colfax,35,http://www.westernstateswater.org/NewMexico
+35053,SUMMARY,USE,,NMOSE,2000,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
+35037,SUMMARY,USE,,NMOSE,1990,35037,Quay,35,http://www.westernstateswater.org/NewMexico
+35037,SUMMARY,USE,,NMOSE,2000,35037,Quay,35,http://www.westernstateswater.org/NewMexico
+35053,SUMMARY,USE,,NMOSE,1990,35053,Socorro,35,http://www.westernstateswater.org/NewMexico
+35057,SUMMARY,USE,,NMOSE,2005,35057,Torrance,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1995,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1995,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
+35055,SUMMARY,USE,,NMOSE,1995,35055,Taos,35,http://www.westernstateswater.org/NewMexico
+35061,SUMMARY,USE,,NMOSE,1995,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35059,SUMMARY,USE,,NMOSE,1995,35059,Union,35,http://www.westernstateswater.org/NewMexico
+35023,SUMMARY,USE,,NMOSE,2005,35023,Hidalgo,35,http://www.westernstateswater.org/NewMexico
+35027,SUMMARY,USE,,NMOSE,2010,35027,Lincoln,35,http://www.westernstateswater.org/NewMexico
+35003,SUMMARY,USE,,NMOSE,2010,35003,Catron,35,http://www.westernstateswater.org/NewMexico
+35029,SUMMARY,USE,,NMOSE,2010,35029,Luna,35,http://www.westernstateswater.org/NewMexico
+35025,SUMMARY,USE,,NMOSE,2005,35025,Lea,35,http://www.westernstateswater.org/NewMexico
+35021,SUMMARY,USE,,NMOSE,1995,35021,Harding,35,http://www.westernstateswater.org/NewMexico
+35028,SUMMARY,USE,,NMOSE,1990,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
+35028,SUMMARY,USE,,NMOSE,2000,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
+35033,SUMMARY,USE,,NMOSE,2010,35033,Mora,35,http://www.westernstateswater.org/NewMexico
+35005,SUMMARY,USE,,NMOSE,1995,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
+35017,SUMMARY,USE,,NMOSE,1995,35017,Grant,35,http://www.westernstateswater.org/NewMexico
+35051,SUMMARY,USE,,NMOSE,2005,35051,Sierra,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
+35031,SUMMARY,USE,,NMOSE,2010,35031,McKinley,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,RG,Rio Grande Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2000,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1990,UC,Upper Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35041,SUMMARY,USE,,NMOSE,2010,35041,Roosevelt,35,http://www.westernstateswater.org/NewMexico
+35061,SUMMARY,USE,,NMOSE,1990,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
+35061,SUMMARY,USE,,NMOSE,2000,35061,Valencia,35,http://www.westernstateswater.org/NewMexico
+35049,SUMMARY,USE,,NMOSE,2005,35049,Santa Fe,35,http://www.westernstateswater.org/NewMexico
+35055,SUMMARY,USE,,NMOSE,2000,35055,Taos,35,http://www.westernstateswater.org/NewMexico
+35055,SUMMARY,USE,,NMOSE,1990,35055,Taos,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,P,Pecos Region,35,http://www.westernstateswater.org/NewMexico
+35001,SUMMARY,USE,,NMOSE,2005,35001,Bernalillo,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,1995,LC,Lower Colorado Region,35,http://www.westernstateswater.org/NewMexico
+35059,SUMMARY,USE,,NMOSE,2000,35059,Union,35,http://www.westernstateswater.org/NewMexico
+35059,SUMMARY,USE,,NMOSE,1990,35059,Union,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2005,TG,Texas-Gulf Region,35,http://www.westernstateswater.org/NewMexico
+35009,SUMMARY,USE,,NMOSE,2005,35009,Curry,35,http://www.westernstateswater.org/NewMexico
+35019,SUMMARY,USE,,NMOSE,2010,35019,Guadalupe,35,http://www.westernstateswater.org/NewMexico
+35015,SUMMARY,USE,,NMOSE,2010,35015,Eddy,35,http://www.westernstateswater.org/NewMexico
+35047,SUMMARY,USE,,NMOSE,2005,35047,San Miguel,35,http://www.westernstateswater.org/NewMexico
+35028,SUMMARY,USE,,NMOSE,1995,35028,Los Alamos,35,http://www.westernstateswater.org/NewMexico
+35005,SUMMARY,USE,,NMOSE,2000,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
+35005,SUMMARY,USE,,NMOSE,1990,35005,Chaves,35,http://www.westernstateswater.org/NewMexico
+35021,SUMMARY,USE,,NMOSE,2000,35021,Harding,35,http://www.westernstateswater.org/NewMexico
+35021,SUMMARY,USE,,NMOSE,1990,35021,Harding,35,http://www.westernstateswater.org/NewMexico
+35017,SUMMARY,USE,,NMOSE,2000,35017,Grant,35,http://www.westernstateswater.org/NewMexico
+35017,SUMMARY,USE,,NMOSE,1990,35017,Grant,35,http://www.westernstateswater.org/NewMexico
+,SUMMARY,USE,,NMOSE,2010,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
