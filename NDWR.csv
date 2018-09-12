@@ -248,34 +248,3 @@ CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,Rep
 ,DETAIL,ALLOCATION,,NDWR,2017,231 ,53,http://wade.water.nv.gov
 ,DETAIL,ALLOCATION,,NDWR,2017,232 ,53,http://wade.water.nv.gov
 ,DETAIL,ALLOCATION,,NDWR,2017,UKN ,53,http://wade.water.nv.gov
-,DETAIL,ALLOCATION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,DETAIL,DIVERSION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,DETAIL,RETURN,16020204,SAMPLE1,2012,16020204                           ,46,http://wade.water.nv.gov
-,DETAIL,USE,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,ALLOCATION,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,AVAILABILITY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,REGULATORY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,REGULATORY,16020205,SAMPLE1,2012,16020205,46,http://wade.water.nv.gov
-,SUMMARY,SUPPLY,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,USE,16020204,SAMPLE1,2012,16020204,46,http://wade.water.nv.gov
-,SUMMARY,AVAILABILITY,16020204,SAMPLE1,2013-CU1,16020204,46,http://wade.water.nv.gov
-,SUMMARY,REGULATORY,16020206,SAMPLE1,2013-CU1,16020206,46,http://wade.water.nv.gov
-49035,DETAIL,ALLOCATION,16020204,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,DETAIL,DIVERSION,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,DETAIL,RETURN,,SAMPLE2,2012,100                                ,46,http://wade.water.nv.gov
-,DETAIL,USE,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,SUMMARY,ALLOCATION,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,SUMMARY,AVAILABILITY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,SUMMARY,REGULATORY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,SUMMARY,SUPPLY,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-,SUMMARY,USE,,SAMPLE2,2012,100,46,http://wade.water.nv.gov
-49035,DETAIL,ALLOCATION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,DETAIL,DIVERSION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,46,http://wade.water.nv.gov
-49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,46,http://wade.water.nv.gov
-49035,DETAIL,USE,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,SUMMARY,ALLOCATION,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,SUMMARY,AVAILABILITY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,SUMMARY,REGULATORY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,SUMMARY,SUPPLY,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov
-49035,SUMMARY,USE,,SAMPLE3,2012,49035,46,http://wade.water.nv.gov

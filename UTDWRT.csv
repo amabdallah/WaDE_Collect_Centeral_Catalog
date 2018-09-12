@@ -1,13 +1,4 @@
 CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
-,DETAIL,DIVERSION,16020204,SAMPLE1,2012,16020204,,46,http://www.water.utah.gov/DWRT
-,DETAIL,RETURN,16020204,SAMPLE1,2012,16020204                           ,,46,http://www.water.utah.gov/DWRT
-,DETAIL,DIVERSION,,SAMPLE2,2012,100,,46,http://www.water.utah.gov/DWRT
-,DETAIL,RETURN,,SAMPLE2,2012,100                                ,,46,http://www.water.utah.gov/DWRT
-,DETAIL,USE,,SAMPLE2,2012,100,,46,http://www.water.utah.gov/DWRT
-49035,DETAIL,DIVERSION,,SAMPLE3,2012,49035,,46,http://www.water.utah.gov/DWRT
-49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,,46,http://www.water.utah.gov/DWRT
-49035,DETAIL,RETURN,,SAMPLE3,2012,49035                              ,,46,http://www.water.utah.gov/DWRT
-49035,DETAIL,USE,,SAMPLE3,2012,49035,,46,http://www.water.utah.gov/DWRT
 49003,DETAIL,ALLOCATION,160203070804,UTDWRT,2016,00-01-01,Grouse Creek,46,http://www.water.utah.gov/DWRT
 49003,DETAIL,ALLOCATION,160203080203,UTDWRT,2016,00-01-01,Grouse Creek,46,http://www.water.utah.gov/DWRT
 49003,DETAIL,ALLOCATION,160203080204,UTDWRT,2016,00-01-01,Grouse Creek,46,http://www.water.utah.gov/DWRT

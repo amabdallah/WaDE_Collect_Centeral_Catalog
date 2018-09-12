@@ -1,62 +1,4 @@
 CountyFIPS,DataCategory,DataType,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
-055  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
-057  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
-061  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
-073  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
-033  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
-045  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
-053  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
-041  ,DETAIL,ALLOCATION,WAECY,2017,11,Nisqually,1,https://fortress.wa.gov/ecy
-053  ,DETAIL,ALLOCATION,WAECY,2017,12,Chambers-Clover,1,https://fortress.wa.gov/ecy
-067  ,DETAIL,ALLOCATION,WAECY,2017,12,Chambers-Clover,1,https://fortress.wa.gov/ecy
-049  ,DETAIL,ALLOCATION,WAECY,2017,14,Kennedy-Goldsborough,1,https://fortress.wa.gov/ecy
-067  ,DETAIL,ALLOCATION,WAECY,2017,14,Kennedy-Goldsborough,1,https://fortress.wa.gov/ecy
-033  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
-045  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
-053  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
-031  ,DETAIL,ALLOCATION,WAECY,2017,16,Skokomish-Dosewallips,1,https://fortress.wa.gov/ecy
-009  ,DETAIL,ALLOCATION,WAECY,2017,17,Quilcene-Snow,1,https://fortress.wa.gov/ecy
-061  ,DETAIL,ALLOCATION,WAECY,2017,17,Quilcene-Snow,1,https://fortress.wa.gov/ecy
-031  ,DETAIL,ALLOCATION,WAECY,2017,18,Elwha-Dungeness,1,https://fortress.wa.gov/ecy
-009  ,DETAIL,ALLOCATION,WAECY,2017,19,Lyre-Hoko,1,https://fortress.wa.gov/ecy
-045  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
-053  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
-067  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
-041  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
-049  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
-067  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
-041  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
-049  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
-069  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
-015  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
-049  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
-069  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
-015  ,DETAIL,ALLOCATION,WAECY,2017,26,Cowlitz,1,https://fortress.wa.gov/ecy
-041  ,DETAIL,ALLOCATION,WAECY,2017,26,Cowlitz,1,https://fortress.wa.gov/ecy
-011  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
-021  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
-059  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
-011  ,DETAIL,ALLOCATION,WAECY,2017,28,Salmon-Washougal,1,https://fortress.wa.gov/ecy
-059  ,DETAIL,ALLOCATION,WAECY,2017,29,Wind-White Salmon,1,https://fortress.wa.gov/ecy
-077  ,DETAIL,ALLOCATION,WAECY,2017,29,Wind-White Salmon,1,https://fortress.wa.gov/ecy
-057  ,DETAIL,ALLOCATION,WAECY,2017,3,Lower Skagit-Samish,1,https://fortress.wa.gov/ecy
-061  ,DETAIL,ALLOCATION,WAECY,2017,3,Lower Skagit-Samish,1,https://fortress.wa.gov/ecy
-005  ,DETAIL,ALLOCATION,WAECY,2017,30,Klickitat,1,https://fortress.wa.gov/ecy
-039  ,DETAIL,ALLOCATION,WAECY,2017,30,Klickitat,1,https://fortress.wa.gov/ecy
-005  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
-021  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
-039  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
-071  ,DETAIL,ALLOCATION,WAECY,2017,32,Walla Walla,1,https://fortress.wa.gov/ecy
-005  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
-013  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
-071  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
-001  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
-037  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
-043  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
-023  ,DETAIL,ALLOCATION,WAECY,2017,35,Middle Snake,1,https://fortress.wa.gov/ecy
-021  ,DETAIL,ALLOCATION,WAECY,2017,36,Esquatzel Coulee,1,https://fortress.wa.gov/ecy
-075  ,DETAIL,ALLOCATION,WAECY,2017,36,Esquatzel Coulee,1,https://fortress.wa.gov/ecy
-,DETAIL,ALLOCATION,WAECY,2017,37,Lower Yakima,1,https://fortress.wa.gov/ecy
 ,DETAIL,ALLOCATION,WAECY,2017,  ,,1,https://fortress.wa.gov/ecy
 053  ,DETAIL,ALLOCATION,WAECY,2017,11,Nisqually,1,https://fortress.wa.gov/ecy
 067  ,DETAIL,ALLOCATION,WAECY,2017,11,Nisqually,1,https://fortress.wa.gov/ecy
@@ -167,6 +109,64 @@ CountyFIPS,DataCategory,DataType,OrganizationIdentifier,ReportIdentifier,ReportU
 033  ,DETAIL,ALLOCATION,WAECY,2017,8,Cedar-Sammamish,1,https://fortress.wa.gov/ecy
 075  ,DETAIL,ALLOCATION,WAECY,2017,8,Cedar-Sammamish,1,https://fortress.wa.gov/ecy
 033  ,DETAIL,ALLOCATION,WAECY,2017,9,Duwamish-Green,1,https://fortress.wa.gov/ecy
+055  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
+057  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
+061  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
+073  ,DETAIL,ALLOCATION,WAECY,2017,1,Nooksack,1,https://fortress.wa.gov/ecy
+033  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
+045  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
+053  ,DETAIL,ALLOCATION,WAECY,2017,10,Puyallup-White,1,https://fortress.wa.gov/ecy
+041  ,DETAIL,ALLOCATION,WAECY,2017,11,Nisqually,1,https://fortress.wa.gov/ecy
+053  ,DETAIL,ALLOCATION,WAECY,2017,12,Chambers-Clover,1,https://fortress.wa.gov/ecy
+067  ,DETAIL,ALLOCATION,WAECY,2017,12,Chambers-Clover,1,https://fortress.wa.gov/ecy
+049  ,DETAIL,ALLOCATION,WAECY,2017,14,Kennedy-Goldsborough,1,https://fortress.wa.gov/ecy
+067  ,DETAIL,ALLOCATION,WAECY,2017,14,Kennedy-Goldsborough,1,https://fortress.wa.gov/ecy
+033  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
+045  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
+053  ,DETAIL,ALLOCATION,WAECY,2017,15,Kitsap,1,https://fortress.wa.gov/ecy
+031  ,DETAIL,ALLOCATION,WAECY,2017,16,Skokomish-Dosewallips,1,https://fortress.wa.gov/ecy
+009  ,DETAIL,ALLOCATION,WAECY,2017,17,Quilcene-Snow,1,https://fortress.wa.gov/ecy
+061  ,DETAIL,ALLOCATION,WAECY,2017,17,Quilcene-Snow,1,https://fortress.wa.gov/ecy
+031  ,DETAIL,ALLOCATION,WAECY,2017,18,Elwha-Dungeness,1,https://fortress.wa.gov/ecy
+009  ,DETAIL,ALLOCATION,WAECY,2017,19,Lyre-Hoko,1,https://fortress.wa.gov/ecy
+045  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
+053  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
+067  ,DETAIL,ALLOCATION,WAECY,2017,22,Lower Chehalis,1,https://fortress.wa.gov/ecy
+041  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
+049  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
+067  ,DETAIL,ALLOCATION,WAECY,2017,23,Upper Chehalis,1,https://fortress.wa.gov/ecy
+041  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
+049  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
+069  ,DETAIL,ALLOCATION,WAECY,2017,24,Willapa,1,https://fortress.wa.gov/ecy
+015  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
+049  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
+069  ,DETAIL,ALLOCATION,WAECY,2017,25,Grays-Elokoman,1,https://fortress.wa.gov/ecy
+015  ,DETAIL,ALLOCATION,WAECY,2017,26,Cowlitz,1,https://fortress.wa.gov/ecy
+041  ,DETAIL,ALLOCATION,WAECY,2017,26,Cowlitz,1,https://fortress.wa.gov/ecy
+011  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
+021  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
+059  ,DETAIL,ALLOCATION,WAECY,2017,27,Lewis,1,https://fortress.wa.gov/ecy
+011  ,DETAIL,ALLOCATION,WAECY,2017,28,Salmon-Washougal,1,https://fortress.wa.gov/ecy
+059  ,DETAIL,ALLOCATION,WAECY,2017,29,Wind-White Salmon,1,https://fortress.wa.gov/ecy
+077  ,DETAIL,ALLOCATION,WAECY,2017,29,Wind-White Salmon,1,https://fortress.wa.gov/ecy
+057  ,DETAIL,ALLOCATION,WAECY,2017,3,Lower Skagit-Samish,1,https://fortress.wa.gov/ecy
+061  ,DETAIL,ALLOCATION,WAECY,2017,3,Lower Skagit-Samish,1,https://fortress.wa.gov/ecy
+005  ,DETAIL,ALLOCATION,WAECY,2017,30,Klickitat,1,https://fortress.wa.gov/ecy
+039  ,DETAIL,ALLOCATION,WAECY,2017,30,Klickitat,1,https://fortress.wa.gov/ecy
+005  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
+021  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
+039  ,DETAIL,ALLOCATION,WAECY,2017,31,Rock-Glade,1,https://fortress.wa.gov/ecy
+071  ,DETAIL,ALLOCATION,WAECY,2017,32,Walla Walla,1,https://fortress.wa.gov/ecy
+005  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
+013  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
+071  ,DETAIL,ALLOCATION,WAECY,2017,33,Lower Snake,1,https://fortress.wa.gov/ecy
+001  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
+037  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
+043  ,DETAIL,ALLOCATION,WAECY,2017,34,Palouse,1,https://fortress.wa.gov/ecy
+023  ,DETAIL,ALLOCATION,WAECY,2017,35,Middle Snake,1,https://fortress.wa.gov/ecy
+021  ,DETAIL,ALLOCATION,WAECY,2017,36,Esquatzel Coulee,1,https://fortress.wa.gov/ecy
+075  ,DETAIL,ALLOCATION,WAECY,2017,36,Esquatzel Coulee,1,https://fortress.wa.gov/ecy
+,DETAIL,ALLOCATION,WAECY,2017,37,Lower Yakima,1,https://fortress.wa.gov/ecy
 009  ,DETAIL,ALLOCATION,WAECY,2017,37,Lower Yakima,1,https://fortress.wa.gov/ecy
 077  ,DETAIL,ALLOCATION,WAECY,2017,37,Lower Yakima,1,https://fortress.wa.gov/ecy
 073  ,DETAIL,ALLOCATION,WAECY,2017,4,Upper Skagit,1,https://fortress.wa.gov/ecy
