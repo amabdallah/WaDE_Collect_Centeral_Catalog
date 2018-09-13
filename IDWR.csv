@@ -1,4 +1,4 @@
-CountFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
+CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
 16043,DETAIL,RETURN,170402030403,IDWR,2012,21,,56,http://www.westernstateswater.org/Idaho
 16065,DETAIL,RETURN,170402030405,IDWR,2012,21,,56,http://www.westernstateswater.org/Idaho
 16065,DETAIL,RETURN,170402030506,IDWR,2012,21,,56,http://www.westernstateswater.org/Idaho

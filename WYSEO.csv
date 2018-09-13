@@ -1,4 +1,4 @@
-CountFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,State,WaDEURLAddress
+CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,State,WaDEURLAddress
 56001,DETAIL,ALLOCATION,SPLIT,WYSEO,2016,3,47,http://www.westernstateswater.org/WYSEO
 56035,DETAIL,ALLOCATION,170401,WYSEO,2016,5,47,http://www.westernstateswater.org/WYSEO
 56027,DETAIL,ALLOCATION,101800,WYSEO,2016,5,47,http://www.westernstateswater.org/WYSEO

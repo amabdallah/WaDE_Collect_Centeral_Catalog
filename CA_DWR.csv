@@ -1,4 +1,4 @@
-CountFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
+CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
 -999 ,SUMMARY,USE,-999,CA-DWR,2010,DAU06435,DAU06435,49,http://wade.sdsc.edu
 -999 ,SUMMARY,USE,-999,CA-DWR,2010,DAU33633,DAU33633,49,http://wade.sdsc.edu
 -999 ,SUMMARY,USE,-999,CA-DWR,2010,DAU34633,DAU34633,49,http://wade.sdsc.edu

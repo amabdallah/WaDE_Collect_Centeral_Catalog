@@ -1,4 +1,4 @@
-CountFIPS,DataCategory,DataType,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
+CountyFIPS,DataCategory,DataType,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
 ,SUMMARY,USE,NMOSE,1995,AWR,Arkansas-White-Red Region,35,http://www.westernstateswater.org/NewMexico
 35033,SUMMARY,USE,NMOSE,1990,35033,Mora,35,http://www.westernstateswater.org/NewMexico
 35033,SUMMARY,USE,NMOSE,2000,35033,Mora,35,http://www.westernstateswater.org/NewMexico

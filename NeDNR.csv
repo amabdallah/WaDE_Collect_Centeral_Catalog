@@ -1,4 +1,4 @@
-CountFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
+CountyFIPS,DataCategory,DataType,HUC,OrganizationIdentifier,ReportIdentifier,ReportUnitIdentifier,ReportUnitName,State,WaDEURLAddress
 31089,DETAIL,ALLOCATION,101500070602,NeDNR,2016,9,NIOBRARA,41,http://www.westernstateswater.org/Nebraska
 31019,DETAIL,ALLOCATION,102001020401,NeDNR,2016,5,LOUP,41,http://www.westernstateswater.org/Nebraska
 31061,DETAIL,ALLOCATION,102500160404,NeDNR,2016,11,REPUBLICAN,41,http://www.westernstateswater.org/Nebraska
